@@ -53,7 +53,7 @@ Check the exemple.py file
 
 
 ## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to the [GitHub repository](https://github.com/Turtle6665/PySiWrap). This repository is currently inaccessible due to delayed agreement.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to the [GitHub repository](https://github.com/Turtle6665/PySiWrap).
 
 ## Q&A :
 1. Why can I not use PySiWrap without having access to SIRANE ?
@@ -75,4 +75,4 @@ If you have another version of SIRANE not yet taken into account, you can create
 This project is released under the MIT license. See [LICENSE](LICENSE) for more details.
 
 ## Acknowledgment
-This script has originally been created within a master thesis supported financially by [Bloomberg Philanthropies](https://www.bloomber.org)
+This script has originally been created within a master thesis supported financially by [Bloomberg Philanthropies](https://www.bloomber.org).
